@@ -104,13 +104,10 @@
 					<div class="contentwrap">
 						<div class="container">
 							<div class="content">
-								<!-- <h3 class="slider-tag">Style 1</h3> -->
 								<div class="slideheadingwrap">
-									<!-- <h2>Crisis Prevention and Recovery</h2> -->
 								</div>
 								<div class="description_wrap">
 									<div class="description hidden-xs">
-										<!-- Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. -->
 									</div>
 								</div><br><br><br><br><br><br><br><br><br>
 								<a class="btn1" href="#projects">More Details</a>
@@ -123,7 +120,6 @@
 					<div class="contentwrap">
 						<div class="container">
 							<div class="content">
-								<!-- <h3 class="slider-tag">Style 2</h3> -->
 								<div class="slideheadingwrap">
 									<h2>HOW MUCH IS YOUR LIFE WORTH?</h2>
 								</div>
@@ -145,7 +141,6 @@
 					<div class="contentwrap">
 						<div class="container">
 							<div class="content">
-								<!-- <h3 class="slider-tag">Style 3</h3> -->
 								<div class="slideheadingwrap">
 									<h2>CREDO OF SELF-AWARENESS</h2>
 								</div>
@@ -166,7 +161,6 @@
 					<div class="contentwrap">
 						<div class="container">
 							<div class="content">
-								<!-- <h3 class="slider-tag">Style 4</h3> -->
 								<div class="slideheadingwrap">
 									<h2>IDARE CARES</h2>
 								</div>
@@ -184,14 +178,12 @@
 					<div class="contentwrap">
 						<div class="container">
 							<div class="content">
-								<!-- <h3 class="slider-tag">Style 5</h3> -->
 								<div class="slideheadingwrap">
 									<h2>HELP US SAVE LIVES!</h2>
 								</div>
 								<div class="description hidden-xs" id="blackBackground">
 									<p id="sliderDesc-5"><strong>DISASTERS WON'T WAIT. <br>BE PREPARED.</strong><br></p>
 									<span class="sliderDesc-4">You and your family must know what to do <em>BEFORE</em>, <em>DURING</em>, and <em>AFTER</em> a disaster.</span>
-									<!-- <p class="sliderDesc-4">You and your family must know what to do <em>BEFORE</em>, <em>DURING</em>, and <em>AFTER</em> a disaster.</p> -->
 								</div>
 								<a class="btn1" href="#projects">More Details</a>
 								<a class="btn2" href="#" data-toggle="modal" data-target=".donate_0">Donate</a>
