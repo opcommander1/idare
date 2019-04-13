@@ -51,12 +51,10 @@
         <h4 class="modal-title">Copyright</h4>
       </div>
       <div class="modal-body">
-        <!-- <img src="images/events/shakeout.jpg" alt="Annual Shakeout"> -->
         <hr>
         <p class="eventsTextSize">Copyright 2012-2017 iDARE®, Inc. All Rights Reserved. Please respect our Federal trademark.</p>
       </div>
       <div class="modal-footer">
-        <!-- <button type="button" class="btn btn-primary">Make Donation</button> -->
       </div>
     </div>
   </div>
@@ -72,7 +70,6 @@
         <h4 class="modal-title">Privacy</h4>
       </div>
       <div class="modal-body">
-        <!-- <img src="images/events/shakeout.jpg" alt="Annual Shakeout"> -->
         <hr>
         <p class="eventsTextSize">You have probably heard about the new General Data Protection Regulation ("GDPR"), that comes into effect May 25, 2018. We are committed to keeping your details safe. This new legislation requires a confirmation that you would still like to receive
           my newsletters with tips on enhancing individual and team effectiveness. We hope you find the newsletters enjoyable and valuable. Our goal is to provide tangible tips and techniques that you can begin using immediately on a variety of different
@@ -81,7 +78,6 @@
         </p>
       </div>
       <div class="modal-footer">
-        <!-- <button type="button" class="btn btn-primary">Make Donation</button> -->
       </div>
     </div>
   </div>
@@ -199,8 +195,7 @@
 <script src="/js/jquery.form-validator.min.js"></script>
 <script src="/js/scrollreveal.min.js"></script>
 <script src="/js/script.js"></script>
-<script src="http://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
-<!-- <script src="js/jquery.waypoints.min.js"></script> -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.5/waypoints.min.js"></script>
 <script src="/js/jquery.counterup.min.js"></script>
 
 
